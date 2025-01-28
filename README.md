@@ -1,1 +1,1 @@
-# couch-and-a-lamp
+Hospital Management System
